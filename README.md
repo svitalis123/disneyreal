@@ -2,8 +2,15 @@
 # Project Name
  **Disney clone**
 
-> Description the project.
-###I created an almsost exact disney real website using firebase and React JS and Redux
+> Description of the project.
+
+### I created an a clone of disney website using 
+  - React Js
+  - Redux
+  - Firebase
+  ### Awesome features 
+  - Dynamic interaction of the Website
+  - Complete Sign in feature and logout supported by Firebase
 
 ## Built With
 
