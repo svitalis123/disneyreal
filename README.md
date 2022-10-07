@@ -2,7 +2,7 @@
 # Project Name
  **Disney**
 
-> Description of the project.
+> DisneyRel is a project targeting to bring entertainment to users at their doorstep created using React, Redux, and Firebase.
 
 ### A project created with
   - React Js
