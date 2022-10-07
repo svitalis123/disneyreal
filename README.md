@@ -1,22 +1,19 @@
 
 # Project Name
- **Disney clone**
+ **Disney**
 
 > Description of the project.
 
-### I created an a clone of disney website using 
+### A project created with
   - React Js
   - Redux
   - Firebase
+  - Firebase functions
   ### Awesome features 
   - Dynamic interaction of the Website
   - Complete Sign in feature and logout supported by Firebase
 
-## Built With
-
-- JS CSS HTML React Redux
-- WEBPACK
-
+### Meant to help users watch movies at the best ui and with no buffer.
 
 ## Live Demo (if available)
 
@@ -25,17 +22,31 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- create an account with firebase
+- create a project with firebase and get the API
+- set up React 
+- set up Redux
+- set up GitHub
+- Set up firebase functions
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Redux 
+- React
+- Firebase
+
 ### Setup
 
+- npx create-react-app@latest .
+
+
 ### Install
+- npm install @reduxjs/toolkit
+- npm install react-redux
+- npm install firebase
+- npm install firebase-functions
 
 ### Usage
 
