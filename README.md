@@ -1,6 +1,5 @@
 
-# Project Name
- **Disney**
+# DisneyReal
 
 > DisneyRel is a project targeting to bring entertainment to users at their doorstep created using React, Redux, and Firebase.
 
