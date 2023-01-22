@@ -74,7 +74,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-In order to run this project you need: Ruby installed on your pc
+In order to run this project you need: React Template
 > React Template
 
 ### Setup
