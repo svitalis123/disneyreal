@@ -27,7 +27,7 @@ a name="readme-top"></a>
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 DisneyRel <a name="about-project"></a>
+# 📖 DisneyReal <a name="about-project"></a>
 
 **DisneyRel** DisneyRel is a project targeting to bring entertainment to users at their doorstep created using React, Redux, and Firebase.
 
