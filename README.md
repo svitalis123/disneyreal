@@ -74,8 +74,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-In order to run this project you need: React Template
-> React Template
+In order to run this project you need: React app
+> sudo npx create-react-app@latest
 
 ### Setup
 
